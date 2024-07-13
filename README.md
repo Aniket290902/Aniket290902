@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rupanan Chakraborty
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aniket Das
 ============================================================================================================================================
 
-Engineering Student
+Engineering Student and an aspiring Software Developer.
 -------------------
 
 WELCOME TO MY GITHUB PROFILE!!
 
 🌍  I'm based in India.
-✉️  You can contact me at [mr.rupexx@gmail.com](mailto:mr.rupexx@gmail.com)
+✉️  You can contact me at [aniket290902@gmail.com](mailto:aniket290902@gmail.com)
 
 Skills
 <p align="left">
